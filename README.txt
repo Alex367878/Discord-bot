@@ -70,7 +70,6 @@ This bot is designed to help players evaluate others before inviting them into d
 - Leaderboard system
 - Edit/delete reviews
 - Role-based analytics improvements
-- Slash commands (/review, /check)
 - Web dashboard
 
 ---
